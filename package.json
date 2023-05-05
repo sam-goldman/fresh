@@ -1,0 +1,10 @@
+{
+  "name": "fresh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@chugsplash/plugins": "^0.13.0",
+    "hardhat": "^2.14.0"
+  }
+}
